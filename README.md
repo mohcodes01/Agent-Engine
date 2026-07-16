@@ -30,7 +30,7 @@ pip install -U langgraph
 > [!TIP]
 > If you're looking to quickly build agents, check out **[Deep Agents](https://docs.langchain.com/oss/python/deepagents/overview)** — a higher-level package built on LangGraph for agents that can plan, use subagents, and leverage file systems for complex tasks.
 
-For an equivalent JS/TS library, check out [LangGraph.js](https://github.com/langchain-ai/langgraphjs) and the [JS docs](https://docs.langchain.com/oss/javascript/langgraph/overview).
+For an equivalent JS/TS library, check out [LangGraph.js](https://github.com/larrymargerum01/langgraphjs) and the [JS docs](https://docs.langchain.com/oss/javascript/langgraph/overview).
 
 ## Why use LangGraph?
 
